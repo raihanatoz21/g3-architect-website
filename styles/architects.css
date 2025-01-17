@@ -176,6 +176,34 @@ color:#727272;
     width: 100%;
 }
 
+/* some facts related styles */
+.fact-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+
+}
+
+
+.fact-card{
+    border:1px solid rgb(255, 144, 14); 
+    width: 240px;
+    height: 240px;
+    border-radius: 8px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+
+
+
+
+
+
+
 /* responsive media query */
 
 
