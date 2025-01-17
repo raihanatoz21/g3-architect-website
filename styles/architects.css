@@ -123,6 +123,13 @@ main > section{
 
 }
 
+.feature-title{
+    font-weight: 800;
+    font-size: 2.8rem;
+    color:rgba(19, 19, 19, 1);
+
+}
+
 #of{
     font-weight: 800;
     font-size: 2.8rem;
