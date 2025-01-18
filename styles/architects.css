@@ -336,6 +336,8 @@ color:#727272;
     margin-top: 100px;
     height: 100px;
     margin-bottom: 200px;
+    border-radius: 5px;
+    
 }
 
 .footer-detail{
@@ -344,6 +346,7 @@ color:#727272;
     font-size: 1.25rem;
     color:#424242;
     font-weight: 400;
+   
     
     
     
@@ -366,6 +369,21 @@ color:#727272;
         flex-direction: column;
 
     }
+
+    .footer-section{
+        margin: 0 auto;
+        
+    }
+
+    .footer-detail{
+        font-size: 10px;
+        height:50px
+    }
+
+
+
+
+   
 
 .team-image-container, 
 .fact-container,
@@ -430,6 +448,22 @@ margin-left:2.81rem;
          margin-left:2.81rem;
         
     }
+
+
+    .footer-section{
+        margin: 0 auto;
+        
+        
+    }
+
+    .footer-detail{
+        font-size: 10px;
+        height: 50px;
+      text-align: center;
+        
+    }
+
+
 
 
 
