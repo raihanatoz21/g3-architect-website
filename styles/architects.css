@@ -29,7 +29,7 @@ margin: 0 auto;
 
 
 /* for dark-03 */
-.text-light-gray{
+.text-gray{
     color:#727272;
     
 
@@ -179,6 +179,52 @@ color:#727272;
 .banner-image{
     width: 100%;
 }
+
+/* features section styles */
+
+.features{
+    gap: 8.75rem;
+
+
+}
+
+
+
+#feature-section-title{
+  border-left: 5px solid rgb(255, 144, 14); 
+  padding-left:1.3rem; 
+
+
+}
+
+
+.feature-card{
+    padding: 30px;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+    margin-bottom: 1.25rem;
+
+
+}
+
+
+.feature-card .feature-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: #131313;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+  
+
+
+}
+
+
+
+
+
+
 
 /* some facts related styles */
 .fact-container{
